@@ -1,0 +1,17 @@
+body
+{
+  background-color:#333 ;
+  color:#fff;
+  text-align:center;
+}
+
+.label001, .label002
+{
+  font-size: 250px;
+}
+
+.button{
+  size: 50px;
+  font-size: 20px;
+  background-color: #888;
+}
